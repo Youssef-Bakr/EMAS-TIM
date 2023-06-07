@@ -1,0 +1,2397 @@
+<zuiprezi>
+  <version>3</version>
+  <zui-table>
+    <settings>
+      <autoplay>
+        <delay>4000</delay>
+      </autoplay>
+      <bounds x="-101988.97863134657" y="-36483.72634830298" width="203976.9243612031" height="72967.3678880381"/>
+    </settings>
+    <object id="9_2381195" type="image" x="99652.55" y="-35253.4" r="0" s="0.8544619679450989">
+      <source w="640" h="480">52577289.jpg<url>52577289.jpg</url>
+      </source>
+    <resource><id>
+        52577289
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/a/e/3c499a6218facdc1bf5b31204caa6808c38ea.jpg</url></resource></object>
+    <object id="61_141494" type="button" x="97666.3" y="-35242.05" r="0" s="1.483339786529541">
+      <type>invisible</type>
+      <size>
+        <w>356.45</w>
+        <h>260.4</h>
+      </size>
+    </object>
+    <object id="6_103215" type="image" x="97681.35" y="-35247.1" r="0" s="0.7163351774215698">
+      <source w="800" h="600">52790094.jpg<url>52790094.jpg</url>
+        <mask x="3" y="36" w="776" h="546"/>
+      </source>
+    <resource><id>
+        52790094
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/5/3/be6f5a1bb04690acd7bc04ef19f4a544489ad.jpg</url></resource></object>
+    <object id="9_103215" type="image" x="98953.7" y="-35240.6" r="0" s="0.5314788818359375">
+      <source w="1280" h="727">52790210.jpg<url>52790210.jpg</url>
+      </source>
+    <resource><id>
+        52790210
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/a/a/96f92c3704437a9bcd547eb7ddba0aac418f1.jpg</url></resource></object>
+    <object id="5_117967" type="image" x="100989.55" y="-35240.65" r="0" s="0.5180251002311707">
+      <source w="1280" h="727">52791600.jpg<url>52791600.jpg</url>
+      </source>
+    <resource><id>
+        52791600
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/c/d/590af09041553987c3138e0f16404ae7cfaee.jpg</url></resource></object>
+    <object id="7_117967" type="image" x="101656.4" y="-35238.3" r="0" s="0.5231409072875977">
+      <source w="1280" h="727">52791611.jpg<url>52791611.jpg</url>
+      </source>
+    <resource><id>
+        52791611
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/3/c/b06d2514cbbcd1624aead25c148bda99b4113.jpg</url></resource></object>
+    <object id="0_24752873" type="label" x="99652.4" y="-35607.7" r="0" s="1.1197967529296875" class="strong">
+      <textfield>
+        <x>-318.5</x>
+        <y>-84.35</y>
+        <text>Epitopes Prediction
+
+Youssef Mohamed Bakr
+PhD Student
+Bioinformatics Department</text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">Epitopes Prediction</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0"/>
+          </P>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">Youssef Mohamed Bakr</FONT>
+          </P>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">PhD Student</FONT>
+          </P>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">Bioinformatics Department</FONT>
+          </P>
+        </htmlText>
+        <w>637</w>
+        <h>168.75</h>
+      </textfield>
+    </object>
+    <object id="15_103215" type="image" x="99637.5" y="-36123.95" r="0" s="1.5211509466171265">
+      <source w="346" h="440">52790649.gif<url>52790649.gif</url>
+      </source>
+    <resource><id>
+        52790649
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/2/c/4f66a6ffa9f5239138134ca697de0a0ed2699.gif</url></resource></object>
+    <object id="57_141494" type="button" x="99436.35" y="-34964.85" r="0" s="2.1432788372039795">
+      <type>invisible</type>
+      <size>
+        <w>183</w>
+        <h>74</h>
+      </size>
+    </object>
+    <object id="6_2381195" type="label" x="99425.8" y="-34949.15" r="0" s="0.7188396453857422" class="head">
+      <textfield>
+        <x>-239.9</x>
+        <y>-84.35</y>
+        <text>Services
+Provided by
+The Genetic Engineering Services Unit (GESU)</text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">Services</FONT>
+          </P>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">Provided by</FONT>
+          </P>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">The Genetic Engineering Services Unit (GESU)</FONT>
+          </P>
+        </htmlText>
+        <w>479.8</w>
+        <h>135.8</h>
+      </textfield>
+    </object>
+    <object id="63_141494" type="button" x="99442.35" y="-34519.5" r="0" s="2.4792423248291016">
+      <type>invisible</type>
+      <size>
+        <w>383</w>
+        <h>175</h>
+      </size>
+    </object>
+    <object id="17_103215" type="image" x="99653.25" y="-34451.25" r="0" s="1.1909904479980469">
+      <source w="256" h="256">52790680.png<url>52790680.png</url>
+      </source>
+    <resource><id>
+        52790680
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/7/7/929bf819b5dad24ff419665c156c8a0c43b9f.png</url></resource></object>
+    <object id="1_117967" type="image" x="100330.95" y="-35240.7" r="0" s="0.5359227657318115">
+      <source w="1280" h="727">52791526.jpg<url>52791526.jpg</url>
+      </source>
+    <resource><id>
+        52791526
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/f/7/6a1ba6b648218f840e0f29513038d575ff810.jpg</url></resource></object>
+    <object id="58_141494" type="button" x="99106.8" y="-34837.25" r="0" s="0.4027743637561798">
+      <type>invisible</type>
+      <size>
+        <w>962</w>
+        <h>219</h>
+      </size>
+    </object>
+    <object id="7_2381195" type="label" x="99107.65" y="-34838" r="0" s="0.7188396453857422" class="strong">
+      <textfield>
+        <x>-276.6</x>
+        <y>-51.4</y>
+        <text>Production of Diagnostic PCR Kits for
+Accurate Detection of Major Phytopathogenic Viruses</text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">Production of Diagnostic PCR Kits for</FONT>
+          </P>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">Accurate Detection of Major Phytopathogenic Viruses</FONT>
+          </P>
+        </htmlText>
+        <w>553.2</w>
+        <h>102.85</h>
+      </textfield>
+    </object>
+    <object id="11_2381195" type="shape" x="99531.3" y="-34997.05" r="-55.92103387067838" s="1.4426890599519953">
+      <geom type="arrow">
+        <sp>36.99399912251939 0</sp>
+        <ep>-36.993999122519384 0</ep>
+        <t>9</t>
+      </geom>
+    </object>
+    <object id="14_2381195" type="button" x="99647.8" y="-35609.9" r="0" s="0.613118052482605">
+      <type>invisible</type>
+      <size>
+        <w>756.5500000000004</w>
+        <h>376.0749999999995</h>
+      </size>
+    </object>
+    <object id="15_2381195" type="button" x="99653.45" y="-35253.35" r="0" s="0.867992103099823">
+      <type>invisible</type>
+      <size>
+        <w>632.96875</w>
+        <h>483.1312499999997</h>
+      </size>
+    </object>
+    <object id="11_103215" type="image" x="98276.2" y="-35240.7" r="0" s="0.5314788818359375">
+      <source w="1280" h="727">52790240.jpg<url>52790240.jpg</url>
+      </source>
+    <resource><id>
+        52790240
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/8/5/70c68f4c42f4c058ac42cb7171a6f261ba6da.jpg</url></resource></object>
+    <object id="62_141494" type="button" x="97067.65" y="-35240.55" r="0" s="1.483339786529541">
+      <type>invisible</type>
+      <size>
+        <w>420</w>
+        <h>88</h>
+      </size>
+    </object>
+    <object id="12_103215" type="label" x="97067.6" y="-35231.35" r="0" s="0.7952865958213806" class="strong">
+      <textfield>
+        <x>-370.3</x>
+        <y>-51.4</y>
+        <text>Genetic Engineering and Biotechnology Research Institute
+(GEBRI)
+Bioinformatics Department</text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">Genetic Engineering and Biotechnology Research Institute</FONT>
+          </P>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">(GEBRI)</FONT>
+          </P>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">Bioinformatics Department</FONT>
+          </P>
+        </htmlText>
+        <w>740.65</w>
+        <h>102.85</h>
+      </textfield>
+    </object>
+    <object id="13_103215" type="label" x="99458.7" y="-34650.6" r="0" s="4.277364730834961" class="strong">
+      <textfield>
+        <x>-89.25</x>
+        <y>-18.45</y>
+        <text>Biotechnology</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">Biotechnology</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="9_117967" type="image" x="99428.95" y="-33912" r="0" s="2.7418434619903564">
+      <source w="275" h="278">52791892.png<url>52791892.png</url>
+      </source>
+    <resource><id>
+        52791892
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/8/e/f7b5dbf9bb76cbd707525772a70172aa56f30.png</url></resource></object>
+    <object id="18_103215" type="label" x="99235.05" y="-34402.8" r="0" s="2.182311773300171" class="head">
+      <textfield>
+        <x>-88.9</x>
+        <y>-18.45</y>
+        <text>BioSystems =</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">BioSystems =</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="67_141494" type="button" x="99402.35" y="-33291.2" r="0" s="1.9604078531265259">
+      <type>invisible</type>
+      <size>
+        <w>949</w>
+        <h>213</h>
+      </size>
+    </object>
+    <object id="11_117967" type="image" x="98953.5" y="-33296.2" r="0" s="1.6544978618621826">
+      <source w="543" h="399">52791950.png<url>52791950.png</url>
+        <mask x="0" y="0" w="538" h="132"/>
+      </source>
+    <resource><id>
+        52791950
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/1/d/72753534f41b0706c063af5380c8256d47701.png</url></resource></object>
+    <object id="2_119680" type="image" x="100085.75" y="-33296.85" r="0" s="1.2788907289505005">
+      <source w="256" h="256">52791971.png<url>52791971.png</url>
+      </source>
+    <resource><id>
+        52791971
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/6/d/433dc20528bd9d0ea418d4068da966b165eb9.png</url></resource></object>
+    <object id="0_119680" type="label" x="99652.35" y="-33296.85" r="0" s="16.767370223999023" class="strong">
+      <textfield>
+        <x>-8.5</x>
+        <y>-18.45</y>
+        <text>=</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">=</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="68_141494" type="button" x="99351.4" y="-32473.7" r="0" s="2.940627098083496">
+      <type>invisible</type>
+      <size>
+        <w>698</w>
+        <h>291</h>
+      </size>
+    </object>
+    <object id="9_119680" type="label" x="99645.5" y="-32414.65" r="0" s="16.767370223999023" class="strong">
+      <textfield>
+        <x>-8.5</x>
+        <y>-18.45</y>
+        <text>=</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">=</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="11_119680" type="image" x="100048.75" y="-32444.6" r="0" s="1.5876868963241577">
+      <source w="256" h="256">52792084.png<url>52792084.png</url>
+      </source>
+    <resource><id>
+        52792084
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/e/6/8acecac5a60d5f61133013744b776f7d2dad9.png</url></resource></object>
+    <object id="3_125532" type="image" x="98899.25" y="-32414.45" r="0" s="0.9976739883422852">
+      <source w="960" h="720">52794864.jpg<url>52794864.jpg</url>
+      </source>
+    <resource><id>
+        52794864
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/2/4/e6764267cb77e85bf5ea76646ad7dcdb1ae89.jpg</url></resource></object>
+    <object id="69_141494" type="button" x="99452.85" y="-31523.35" r="0" s="2.2973792552948">
+      <type>invisible</type>
+      <size>
+        <w>597</w>
+        <h>398</h>
+      </size>
+    </object>
+    <object id="1_127334" type="image" x="99452.85" y="-31521.75" r="0" s="1.2688881158828735">
+      <source w="960" h="720">52795196.jpg<url>52795196.jpg</url>
+      </source>
+    <resource><id>
+        52795196
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/8/3/8dc43ec948d12fe457a7bf568cefd6d50bbbb.jpg</url></resource></object>
+    <object id="70_141494" type="button" x="99383" y="-30536.8" r="0" s="3.952533721923828">
+      <type>invisible</type>
+      <size>
+        <w>573</w>
+        <h>211</h>
+      </size>
+    </object>
+    <object id="2_127334" type="label" x="99368.1" y="-30394.7" r="0" s="3.2890210151672363" class="head">
+      <textfield>
+        <x>-331.75</x>
+        <y>-100.85</y>
+        <text>Computational systems inspired by the principles and processes of the vertebrate immune system. The algorithms typically exploit the immune system's characteristics of learning and memory to solve a problem.</text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">Computational systems inspired by the principles and processes of the vertebrate immune system. The algorithms typically exploit the immune system's characteristics of learning and memory to solve a problem.</FONT>
+          </P>
+        </htmlText>
+        <w>663.5</w>
+        <h>168.75</h>
+      </textfield>
+    </object>
+    <object id="3_127334" type="label" x="99367.8" y="-30819.1" r="0" s="4.604638576507568" class="strong">
+      <textfield>
+        <x>-202.9</x>
+        <y>-18.45</y>
+        <text>Artificial immune systems (AIS)</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">Artificial immune systems (AIS)</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="71_141494" type="button" x="97376.4" y="-34446.4" r="0" s="5.456764221191406">
+      <type>invisible</type>
+      <size>
+        <w>379</w>
+        <h>136</h>
+      </size>
+    </object>
+    <object id="4_127334" type="label" x="97332.7" y="-34346.3" r="0" s="2.3972365856170654" class="head">
+      <textfield>
+        <x>-235.85</x>
+        <y>-84.35</y>
+        <text>Immunoinformatics is the application of informatics techniques drawn from computer science to molecules of the immune system and their interactions.</text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">Immunoinformatics is the application of informatics techniques drawn from computer science to molecules of the immune system and their interactions.</FONT>
+          </P>
+        </htmlText>
+        <w>471.75</w>
+        <h>168.75</h>
+      </textfield>
+    </object>
+    <object id="5_127334" type="label" x="97332.75" y="-34610.45" r="0" s="6.578072547912598" class="strong">
+      <textfield>
+        <x>-123.5</x>
+        <y>-18.45</y>
+        <text>Immunoinformatics</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">Immunoinformatics</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="74_141494" type="button" x="97172.5" y="-31994.85" r="0" s="3.6378276348114014">
+      <type>invisible</type>
+      <size>
+        <w>579</w>
+        <h>258</h>
+      </size>
+    </object>
+    <object id="12_127334" type="image" x="96641.25" y="-31905.4" r="0" s="2.186129570007324">
+      <source w="408" h="294">52795556.jpg<url>52795556.jpg</url>
+      </source>
+    <resource><id>
+        52795556
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/8/f/f566a75f2de9badd9e08fa75ff53647b7ca61.jpg</url></resource></object>
+    <object id="72_141494" type="button" x="97240" y="-33526.85" r="0" s="5.456764221191406">
+      <type>invisible</type>
+      <size>
+        <w>351</w>
+        <h>145</h>
+      </size>
+    </object>
+    <object id="6_127334" type="label" x="97305.25" y="-33395.45" r="0" s="2.182311773300171" class="head">
+      <textfield>
+        <x>-276</x>
+        <y>-117.3</y>
+        <text>Epitope prediction can be fairly described as both the high frontier of immunoinformatic investigation and a grand scientific challenge: it is difficult, yet exciting, and, as a central tool in the drive to develop improved vaccines and diagnostics, is also of true practical value.</text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">Epitope prediction can be fairly described as both the high frontier of immunoinformatic investigation and a grand scientific challenge: it is difficult, yet exciting, and, as a central tool in the drive to develop improved vaccines and diagnostics, is also of true practical value.</FONT>
+          </P>
+        </htmlText>
+        <w>552</w>
+        <h>234.65</h>
+      </textfield>
+    </object>
+    <object id="7_127334" type="label" x="97261.6" y="-33812.9" r="0" s="6.578072547912598" class="strong">
+      <textfield>
+        <x>-121.8</x>
+        <y>-18.45</y>
+        <text>Epitope prediction</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">Epitope prediction</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="14_127334" type="image" x="97663.2" y="-31905.4" r="0" s="2.9731390476226807">
+      <source w="300" h="220">52795573.jpg<url>52795573.jpg</url>
+      </source>
+    <resource><id>
+        52795573
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/0/0/06ac0078815b535aa33668f4fe0c5c7a84ae3.jpg</url></resource></object>
+    <object id="17_127334" type="image" x="97093.3" y="-29817.5" r="0" s="3.263319969177246">
+      <source w="401" h="750">52795679.png<url>52795679.png</url>
+      </source>
+    <resource><id>
+        52795679
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/6/a/cf8901705cd5bb0f29c06cdd33cfcf39da47f.png</url></resource></object>
+    <object id="73_141494" type="button" x="97244.95" y="-32781.7" r="0" s="5.456764221191406">
+      <type>invisible</type>
+      <size>
+        <w>324</w>
+        <h>93</h>
+      </size>
+    </object>
+    <object id="8_127334" type="label" x="97262.1" y="-32790.95" r="0" s="6.578072547912598" class="strong">
+      <textfield>
+        <x>-132</x>
+        <y>-34.95</y>
+        <text>Epitope Prediction
+applications</text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">Epitope Prediction</FONT>
+          </P>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">applications</FONT>
+          </P>
+        </htmlText>
+        <w>264</w>
+        <h>69.9</h>
+      </textfield>
+    </object>
+    <object id="9_127334" type="label" x="97158.15" y="-32349.35" r="0" s="4.604638576507568" class="head">
+      <textfield>
+        <x>-205.45</x>
+        <y>-18.45</y>
+        <text>Development of Diagnostic Kits</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">Development of Diagnostic Kits</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="15_127334" type="label" x="97125.35" y="-31257.85" r="0" s="6.3753342628479" class="head">
+      <textfield>
+        <x>-276</x>
+        <y>-34.95</y>
+        <text>Peptide based vaccines
+&amp; Reverse Vaccinology</text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">Peptide based vaccines</FONT>
+          </P>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">&amp; Reverse Vaccinology</FONT>
+          </P>
+        </htmlText>
+        <w>552</w>
+        <h>69.9</h>
+      </textfield>
+    </object>
+    <object id="80_141494" type="button" x="94223.2" y="-33893.6" r="0" s="6.298948287963867">
+      <type>invisible</type>
+      <size>
+        <w>445</w>
+        <h>171</h>
+      </size>
+    </object>
+    <object id="20_127334" type="image" x="94253.25" y="-33932.05" r="0" s="1.7418330907821655">
+      <source w="960" h="720">52796006.jpg<url>52796006.jpg</url>
+      </source>
+    <resource><id>
+        52796006
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/f/5/2578dcec24c59399da3912b16b9f101781a5a.jpg</url></resource></object>
+    <object id="78_141494" type="button" x="94264.15" y="-34759.8" r="0" s="6.298948287963867">
+      <type>invisible</type>
+      <size>
+        <w>358</w>
+        <h>66</h>
+      </size>
+    </object>
+    <object id="18_127334" type="label" x="94253.25" y="-34642.4" r="0" s="6.578072547912598" class="strong">
+      <textfield>
+        <x>-141.25</x>
+        <y>-18.45</y>
+        <text>Antibodies Production</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">Antibodies Production</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="81_141494" type="button" x="94254.7" y="-32800.7" r="0" s="6.298948287963867">
+      <type>invisible</type>
+      <size>
+        <w>483</w>
+        <h>102</h>
+      </size>
+    </object>
+    <object id="21_127334" type="label" x="94251.4" y="-32827.3" r="0" s="4.604638576507568" class="strong">
+      <textfield>
+        <x>-296.5</x>
+        <y>-51.4</y>
+        <text>Main question!
+
+How to predict epitopes in protein sequence?</text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">Main question!</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0"/>
+          </P>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">How to predict epitopes in protein sequence?</FONT>
+          </P>
+        </htmlText>
+        <w>593.05</w>
+        <h>102.85</h>
+      </textfield>
+    </object>
+    <object id="83_141494" type="button" x="94251.85" y="-31543" r="0" s="6.298948287963867">
+      <type>invisible</type>
+      <size>
+        <w>286</w>
+        <h>161</h>
+      </size>
+    </object>
+    <object id="24_127334" type="image" x="94256.65" y="-31518" r="0" s="2.537440299987793">
+      <source w="659" h="396">52796126.png<url>52796126.png</url>
+      </source>
+    <resource><id>
+        52796126
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/7/c/3da1be1dd6af6ef551db483fd6f375e8fe341.png</url></resource></object>
+    <object id="84_141494" type="button" x="94249.6" y="-30365.35" r="0" s="6.298948287963867">
+      <type>invisible</type>
+      <size>
+        <w>309</w>
+        <h>191</h>
+      </size>
+    </object>
+    <object id="27_127334" type="image" x="94268.2" y="-30376.45" r="0" s="2.537440299987793">
+      <source w="659" h="468">52796161.png<url>52796161.png</url>
+      </source>
+    <resource><id>
+        52796161
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/3/9/e2d4e21d4c4b0df07bf9075f5581e79b66b10.png</url></resource></object>
+    <object id="82_141494" type="button" x="94210.85" y="-32223.35" r="0" s="6.298948287963867">
+      <type>invisible</type>
+      <size>
+        <w>135</w>
+        <h>59</h>
+      </size>
+    </object>
+    <object id="22_127334" type="label" x="94256.9" y="-32222.1" r="0" s="3.2890210151672363" class="head">
+      <textfield>
+        <x>-111.85</x>
+        <y>-51.4</y>
+        <text>But first 
+
+What is epitope?</text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">But first</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0"/>
+          </P>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">What is epitope?</FONT>
+          </P>
+        </htmlText>
+        <w>223.65</w>
+        <h>102.85</h>
+      </textfield>
+    </object>
+    <object id="86_141494" type="button" x="90315.9" y="-33759.75" r="0" s="4.199298858642578">
+      <type>invisible</type>
+      <size>
+        <w>811</w>
+        <h>279</h>
+      </size>
+    </object>
+    <object id="28_127334" type="label" x="90263.1" y="-33760.8" r="0" s="4.604638576507568" class="head">
+      <textfield>
+        <x>-354.15</x>
+        <y>-117.3</y>
+        <text>Building B-cell prediction models  (BM)
+Evaluation of the performance of BM models
+Epitopes  Model  Applier  Software (EMAS)
+Epitopes prediction for  PLRV
+Chemically synthesis of the predicted peptide
+Injecting the predicted peptide  into animal (mouse) and testing  the raised antibodies.</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">Building B-cell prediction models  (BM)</FONT>
+            </LI>
+          </P>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">Evaluation of the performance of BM models</FONT>
+            </LI>
+          </P>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">Epitopes  Model  Applier  Software (EMAS)</FONT>
+            </LI>
+          </P>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">Epitopes prediction for  PLRV</FONT>
+            </LI>
+          </P>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">Chemically synthesis of the predicted peptide</FONT>
+            </LI>
+          </P>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">Injecting the predicted peptide  into animal (mouse) and testing  the raised antibodies.</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <w>708.35</w>
+        <h>234.65</h>
+      </textfield>
+    </object>
+    <object id="85_141494" type="button" x="89662.4" y="-34677.3" r="0" s="6.298948287963867">
+      <type>invisible</type>
+      <size>
+        <w>386</w>
+        <h>75</h>
+      </size>
+    </object>
+    <object id="0_130131" type="label" x="89586.9" y="-34583.8" r="0" s="12.519922256469727" class="strong">
+      <textfield>
+        <x>-70.3</x>
+        <y>-18.45</y>
+        <text>Objectives:</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">Objectives:</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="89_141494" type="button" x="89981.65" y="-31292.55" r="0" s="12.251625061035156">
+      <type>invisible</type>
+      <size>
+        <w>215</w>
+        <h>140</h>
+      </size>
+    </object>
+    <object id="4_130406" type="image" x="89991.05" y="-31304.9" r="0" s="2.674116373062134">
+      <source w="897" h="648">52796601.png<url>52796601.png</url>
+      </source>
+    <resource><id>
+        52796601
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/3/1/bc6acac019ccd30cb1878a7f4cdcb28ddc6af.png</url></resource></object>
+    <object id="87_141494" type="button" x="90043.5" y="-32867" r="0" s="4.199298858642578">
+      <type>invisible</type>
+      <size>
+        <w>883</w>
+        <h>113</h>
+      </size>
+    </object>
+    <object id="0_130406" type="label" x="89991.05" y="-32812.1" r="0" s="9.209322929382324" class="strong">
+      <textfield>
+        <x>-240.65</x>
+        <y>-18.45</y>
+        <text>Epitopes Prediction Methods</text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">Epitopes Prediction Methods</FONT>
+          </P>
+        </htmlText>
+        <w>481.35</w>
+        <h>36.95</h>
+      </textfield>
+    </object>
+    <object id="88_141494" type="button" x="90128.6" y="-32328" r="0" s="4.199298858642578">
+      <type>invisible</type>
+      <size>
+        <w>1034</w>
+        <h>72</h>
+      </size>
+    </object>
+    <object id="1_130406" type="label" x="90041.6" y="-32302.25" r="0" s="6.578072547912598" class="strong">
+      <textfield>
+        <x>-357.55</x>
+        <y>-18.45</y>
+        <text>Prediction Based on Physicochemical Properties</text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">Prediction Based on Physicochemical Properties</FONT>
+          </P>
+        </htmlText>
+        <w>715.1</w>
+        <h>36.95</h>
+      </textfield>
+    </object>
+    <object id="90_141494" type="button" x="89992.1" y="-29494.7" r="0" s="12.251625061035156">
+      <type>invisible</type>
+      <size>
+        <w>217</w>
+        <h>136</h>
+      </size>
+    </object>
+    <object id="7_130406" type="image" x="89991" y="-29541.55" r="0" s="2.653393507003784">
+      <source w="904" h="638">52796649.png<url>52796649.png</url>
+      </source>
+    <resource><id>
+        52796649
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/0/7/15b9031130a1e30b6142082ebd54ed2d4ba9f.png</url></resource></object>
+    <object id="93_141494" type="button" x="84916.2" y="-32808.7" r="0" s="2.4200363159179688">
+      <type>invisible</type>
+      <size>
+        <w>530</w>
+        <h>458</h>
+      </size>
+    </object>
+    <object id="11_130406" type="image" x="84884.55" y="-32768.85" r="0" s="4.735282897949219">
+      <source w="256" h="256">52796751.png<url>52796751.png</url>
+      </source>
+    <resource><id>
+        52796751
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/7/f/b0789a519c03e534d11966f97f7a5c4c7e988.png</url></resource></object>
+    <object id="92_141494" type="button" x="84890.5" y="-33847.15" r="0" s="5.445158004760742">
+      <type>invisible</type>
+      <size>
+        <w>739</w>
+        <h>171</h>
+      </size>
+    </object>
+    <object id="8_130406" type="label" x="84923.65" y="-33841.8" r="0" s="4.604638576507568" class="head">
+      <textfield>
+        <x>-428.9</x>
+        <y>-100.85</y>
+        <text>PREDITOP (Pellequer and Westhof, 1993),
+PEOPLE (Alix, 1999) and
+BcePred (Saha and Raghava, 2004)
+Utilized groups of physicochemical properties instead of a single property to improve the accuracy of the predicted linear B-cell epitopes.</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">PREDITOP (Pellequer and Westhof, 1993),</FONT>
+            </LI>
+          </P>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">PEOPLE (Alix, 1999) and</FONT>
+            </LI>
+          </P>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">BcePred (Saha and Raghava, 2004)</FONT>
+            </LI>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">Utilized groups of physicochemical properties instead of a single property to improve the accuracy of the predicted linear B-cell epitopes.</FONT>
+          </P>
+        </htmlText>
+        <w>857.85</w>
+        <h>201.7</h>
+      </textfield>
+    </object>
+    <object id="91_141494" type="button" x="84845.25" y="-34649.65" r="0" s="8.167744636535645">
+      <type>invisible</type>
+      <size>
+        <w>444.1</w>
+        <h>78.25</h>
+      </size>
+    </object>
+    <object id="9_130406" type="label" x="84857.85" y="-34546.2" r="0" s="6.738373279571533" class="strong">
+      <textfield>
+        <x>-276</x>
+        <y>-34.95</y>
+        <text>Prediction Based on
+Group of Physicochemical Properties</text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">Prediction Based on</FONT>
+          </P>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">Group of Physicochemical Properties</FONT>
+          </P>
+        </htmlText>
+        <w>552</w>
+        <h>69.9</h>
+      </textfield>
+    </object>
+    <object id="95_141494" type="button" x="84887.2" y="-30870.6" r="0" s="5.940185070037842">
+      <type>invisible</type>
+      <size>
+        <w>540</w>
+        <h>164</h>
+      </size>
+    </object>
+    <object id="15_130406" type="image" x="84807.65" y="-30884.6" r="0" s="3.1291024684906006">
+      <source w="902" h="244">52796929.png<url>52796929.png</url>
+      </source>
+    <resource><id>
+        52796929
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/a/4/caee8d5e61d401bd61bf7e7ce50bfe1eda235.png</url></resource></object>
+    <object id="94_141494" type="button" x="85007.85" y="-31833.7" r="0" s="5.445158004760742">
+      <type>invisible</type>
+      <size>
+        <w>698</w>
+        <h>158</h>
+      </size>
+    </object>
+    <object id="12_130406" type="label" x="85030.4" y="-31822.35" r="0" s="6.446497440338135" class="strong">
+      <textfield>
+        <x>-311.85</x>
+        <y>-51.4</y>
+        <text>Physicochemical Properties based methods cannot be used reliably for
+predicting B-cell epitopes</text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">Physicochemical Properties based methods cannot be used reliably for</FONT>
+          </P>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">predicting B-cell epitopes</FONT>
+          </P>
+        </htmlText>
+        <w>623.75</w>
+        <h>102.85</h>
+      </textfield>
+    </object>
+    <object id="97_141494" type="button" x="77783.3" y="-33086.1" r="0" s="20.04813003540039">
+      <type>invisible</type>
+      <size>
+        <w>325</w>
+        <h>122</h>
+      </size>
+    </object>
+    <object id="18_130406" type="image" x="76200.2" y="-33067.15" r="0" s="6.4342498779296875">
+      <source w="457" h="361">52797105.jpg<url>52797105.jpg</url>
+      </source>
+    <resource><id>
+        52797105
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/3/f/51d37241ecbe7045847bc30f837390276cd72.jpg</url></resource></object>
+    <object id="20_130406" type="image" x="79147.1" y="-33067.9" r="0" s="5.279085159301758">
+      <source w="557" h="432">52797114.jpg<url>52797114.jpg</url>
+      </source>
+    <resource><id>
+        52797114
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/3/1/a9879e2e12f0f1cda5e68dcde86d2946ad813.jpg</url></resource></object>
+    <object id="96_141494" type="button" x="77816" y="-34673" r="0" s="13.365405082702637">
+      <type>invisible</type>
+      <size>
+        <w>263</w>
+        <h>63</h>
+      </size>
+    </object>
+    <object id="16_130406" type="label" x="77806.45" y="-34582.15" r="0" s="14.01760196685791" class="strong">
+      <textfield>
+        <x>-128</x>
+        <y>-18.45</y>
+        <text>Machine Learning</text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">Machine Learning</FONT>
+          </P>
+        </htmlText>
+        <w>256</w>
+        <h>36.95</h>
+      </textfield>
+    </object>
+    <object id="98_141494" type="button" x="77883.55" y="-30298.2" r="0" s="20.04813003540039">
+      <type>invisible</type>
+      <size>
+        <w>271</w>
+        <h>157</h>
+      </size>
+    </object>
+    <object id="25_130406" type="image" x="77774" y="-30399.3" r="0" s="5.347896575927734">
+      <source w="860" h="569">52797196.png<url>52797196.png</url>
+      </source>
+    <resource><id>
+        52797196
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/d/d/5df1411bc752ff3d2c584ce0af87d72b5b395.png</url></resource></object>
+    <object id="102_141494" type="button" x="68551.2" y="-29637.75" r="0" s="15.142346382141113">
+      <type>invisible</type>
+      <size>
+        <w>325</w>
+        <h>215</h>
+      </size>
+    </object>
+    <object id="1_133223" type="image" x="68588.1" y="-29612.2" r="0" s="11.551538467407227">
+      <source w="358" h="245">52797558.png<url>52797558.png</url>
+      </source>
+    <resource><id>
+        52797558
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/8/1/c75bb4a7ed3952db3708b14933bea86e96d84.png</url></resource></object>
+    <object id="99_141494" type="button" x="68849.25" y="-34396.15" r="0" s="10.094907760620117">
+      <type>invisible</type>
+      <size>
+        <w>520</w>
+        <h>110</h>
+      </size>
+    </object>
+    <object id="0_132224" type="label" x="68886.55" y="-34298.2" r="0" s="13.156161308288574" class="strong">
+      <textfield>
+        <x>-182.45</x>
+        <y>-34.95</y>
+        <text>Epitope prediction based on
+Machine Learning</text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">Epitope prediction based on</FONT>
+          </P>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">Machine Learning</FONT>
+          </P>
+        </htmlText>
+        <w>364.95</w>
+        <h>69.9</h>
+      </textfield>
+    </object>
+    <object id="100_141494" type="button" x="68420.1" y="-33038.35" r="0" s="10.094907760620117">
+      <type>invisible</type>
+      <size>
+        <w>407</w>
+        <h>137</h>
+      </size>
+    </object>
+    <object id="1_132224" type="label" x="68460.55" y="-33039.8" r="0" s="6.712320804595947" class="head">
+      <textfield>
+        <x>-303.75</x>
+        <y>-100.85</y>
+        <text>BepiPred (Larsen et al., 2006)
+ABCPred (Saha and Raghava, 2006)
+Decision trees (Sollner and Mayer, 2006)
+AAPs &amp; SVM (Chen et al., 2007)
+String Kernel &amp; SVM                     
+        (El-Manzalawy et al., 2008 a and b)</text>
+        <htmlText>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">BepiPred (Larsen et al., 2006)</FONT>
+            </LI>
+          </P>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">ABCPred (Saha and Raghava, 2006)</FONT>
+            </LI>
+          </P>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">Decision trees (Sollner and Mayer, 2006)</FONT>
+            </LI>
+          </P>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">AAPs &amp; SVM (Chen et al., 2007)</FONT>
+            </LI>
+          </P>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">String Kernel &amp; SVM</FONT>
+            </LI>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">(El-Manzalawy et al., 2008 a and b)</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="101_141494" type="button" x="68607.2" y="-31440.8" r="0" s="15.142346382141113">
+      <type>invisible</type>
+      <size>
+        <w>122</w>
+        <h>51</h>
+      </size>
+    </object>
+    <object id="2_133223" type="label" x="68686.4" y="-31344.05" r="0" s="13.156161308288574" class="strong">
+      <textfield>
+        <x>-43.65</x>
+        <y>-18.45</y>
+        <text>WEKA</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">WEKA</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="104_141494" type="button" x="60303.5" y="-32032.9" r="0" s="10.094907760620117">
+      <type>invisible</type>
+      <size>
+        <w>412</w>
+        <h>418</h>
+      </size>
+    </object>
+    <object id="4_133223" type="image" x="60332.55" y="-32035.85" r="0" s="6.3524274826049805">
+      <source w="534" h="651">52797605.png<url>52797605.png</url>
+      </source>
+    <resource><id>
+        52797605
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/b/8/c9a73c4ebedddd80bb11d2a5d18becaa1ae73.png</url></resource></object>
+    <object id="103_141494" type="button" x="60857.8" y="-34622.35" r="0" s="10.094907760620117">
+      <type>invisible</type>
+      <size>
+        <w>569</w>
+        <h>72</h>
+      </size>
+    </object>
+    <object id="5_133223" type="label" x="60919.6" y="-34552.55" r="0" s="13.156161308288574" class="strong">
+      <textfield>
+        <x>-200.95</x>
+        <y>-18.45</y>
+        <text>Linear B-cell epitopes datasets</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">Linear B-cell epitopes datasets</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="105_141494" type="button" x="60333.9" y="-28618.15" r="0" s="10.094907760620117">
+      <type>invisible</type>
+      <size>
+        <w>504</w>
+        <h>252</h>
+      </size>
+    </object>
+    <object id="7_133223" type="image" x="60343.6" y="-28720" r="0" s="5.967443943023682">
+      <source w="693" h="380">52797654.png<url>52797654.png</url>
+      </source>
+    <resource><id>
+        52797654
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/0/d/388b808789e69ecd23020fa3834c30280aec1.png</url></resource></object>
+    <object id="107_141494" type="button" x="52082.85" y="-32422.4" r="0" s="17.079618453979492">
+      <type>invisible</type>
+      <size>
+        <w>287</w>
+        <h>190</h>
+      </size>
+    </object>
+    <object id="10_133223" type="image" x="52114.05" y="-32434.8" r="0" s="7.518984317779541">
+      <source w="550" h="423">52797696.png<url>52797696.png</url>
+      </source>
+    <resource><id>
+        52797696
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/0/a/0048c209d6e606f7ccb44491cfd2675e318c1.png</url></resource></object>
+    <object id="110_141494" type="button" x="51918.85" y="-26983.5" r="0" s="17.079618453979492">
+      <type>invisible</type>
+      <size>
+        <w>247</w>
+        <h>249</h>
+      </size>
+    </object>
+    <object id="14_133223" type="image" x="51971.5" y="-27079.95" r="0" s="6.237451553344727">
+      <source w="622" h="663">52797746.png<url>52797746.png</url>
+      </source>
+    <resource><id>
+        52797746
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/1/0/f4a5efce27123c8411e8231ea88330052c983.png</url></resource></object>
+    <object id="106_141494" type="button" x="52342.5" y="-34555.95" r="0" s="17.079618453979492">
+      <type>invisible</type>
+      <size>
+        <w>234</w>
+        <h>34</h>
+      </size>
+    </object>
+    <object id="8_133223" type="label" x="52451.8" y="-34521.95" r="0" s="13.156161308288574" class="strong">
+      <textfield>
+        <x>-137.6</x>
+        <y>-18.45</y>
+        <text>Sorted BM models</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">Sorted BM models</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="108_141494" type="button" x="52245.15" y="-29937" r="0" s="17.079618453979492">
+      <type>invisible</type>
+      <size>
+        <w>140</w>
+        <h>37</h>
+      </size>
+    </object>
+    <object id="11_133223" type="label" x="52251.35" y="-29914.2" r="0" s="13.156161308288574" class="strong">
+      <textfield>
+        <x>-63.9</x>
+        <y>-18.45</y>
+        <text>BM online</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">BM online</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="109_141494" type="button" x="52140.85" y="-29418.65" r="0" s="7.590926170349121">
+      <type>invisible</type>
+      <size>
+        <w>597</w>
+        <h>47</h>
+      </size>
+    </object>
+    <object id="12_133223" type="label" x="52109.5" y="-29395.5" r="0" s="6.712320804595947" class="head">
+      <textfield>
+        <x>-317.55</x>
+        <y>-18.45</y>
+        <text>https://sites.google.com/site/epitopesprediction/</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">
+              <A HREF="https://sites.google.com/site/epitopesprediction/" TARGET="_blank">
+                <U>https://sites.google.com/site/epitopesprediction/</U>
+              </A>
+            </FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="112_141494" type="button" x="44929.75" y="-32125.2" r="0" s="17.079618453979492">
+      <type>invisible</type>
+      <size>
+        <w>403</w>
+        <h>189</h>
+      </size>
+    </object>
+    <object id="19_133223" type="image" x="44991.75" y="-31971.2" r="0" s="5.526522636413574">
+      <source w="873" h="476">52797835.png<url>52797835.png</url>
+      </source>
+    <resource><id>
+        52797835
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/a/0/924b704e34ae0c8fa0b23b0cab225bd59dc9b.png</url></resource></object>
+    <object id="111_141494" type="button" x="45023.7" y="-34448.3" r="0" s="17.079618453979492">
+      <type>invisible</type>
+      <size>
+        <w>366</w>
+        <h>59</h>
+      </size>
+    </object>
+    <object id="15_133223" type="label" x="44904.9" y="-34270.1" r="0" s="13.156161308288574" class="strong">
+      <textfield>
+        <x>-225.1</x>
+        <y>-34.95</y>
+        <text>Epitopes Model Applier Software
+EMAS</text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">Epitopes Model Applier Software</FONT>
+          </P>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">EMAS</FONT>
+          </P>
+        </htmlText>
+        <w>450.2</w>
+        <h>69.9</h>
+      </textfield>
+    </object>
+    <object id="16_133223" type="label" x="44818.25" y="-33519.95" r="0" s="9.39726448059082" class="head">
+      <textfield>
+        <x>-317.55</x>
+        <y>-18.45</y>
+        <text>https://sites.google.com/site/epitopesprediction/</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">
+              <A HREF="https://sites.google.com/site/epitopesprediction/" TARGET="_blank">
+                <U>https://sites.google.com/site/epitopesprediction/</U>
+              </A>
+            </FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="113_141494" type="button" x="45134.75" y="-28717.3" r="0" s="17.079618453979492">
+      <type>invisible</type>
+      <size>
+        <w>331</w>
+        <h>193</h>
+      </size>
+    </object>
+    <object id="22_133223" type="image" x="44956.5" y="-28746.95" r="0" s="5.769210338592529">
+      <source w="830" h="559">52797867.png<url>52797867.png</url>
+      </source>
+    <resource><id>
+        52797867
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/1/c/b2b580b21072dfdf132af4b658afce15978b0.png</url></resource></object>
+    <object id="114_141494" type="button" x="45117.7" y="-25053.2" r="0" s="17.079618453979492">
+      <type>invisible</type>
+      <size>
+        <w>345</w>
+        <h>212</h>
+      </size>
+    </object>
+    <object id="24_133223" type="image" x="44975.65" y="-25197.1" r="0" s="5.423442840576172">
+      <source w="947" h="658">52797894.png<url>52797894.png</url>
+      </source>
+    <resource><id>
+        52797894
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/0/b/b9764210691f38d7b5046e9af1f69728d4094.png</url></resource></object>
+    <object id="117_141494" type="button" x="37784.35" y="-25727.95" r="0" s="17.079618453979492">
+      <type>invisible</type>
+      <size>
+        <w>408</w>
+        <h>289</h>
+      </size>
+    </object>
+    <object id="1_137128" type="image" x="37902.9" y="-24676.95" r="0" s="44.42115020751953">
+      <source w="127" h="51">52799138.png<url>52799138.png</url>
+      </source>
+    <resource><id>
+        52799138
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/6/a/784abed8462a17fb448e991f042c6bbcbd856.png</url></resource></object>
+    <object id="116_141494" type="button" x="37693.9" y="-31481.15" r="0" s="17.079618453979492">
+      <type>invisible</type>
+      <size>
+        <w>383</w>
+        <h>322</h>
+      </size>
+    </object>
+    <object id="25_133223" type="label" x="37680.75" y="-30757.45" r="0" s="10.610535621643066" class="head">
+      <textfield>
+        <x>-276</x>
+        <y>-315</y>
+        <text>The Foundations of the GPL
+Nobody should be restricted by the software they use. 
+
+There are four freedoms that every user should have:
+
+• the freedom to use the software for any purpose,
+• the freedom to share the software with your friends and neighbors,
+• the freedom to change the software to suit your needs, and
+• the freedom to share the changes you make.
+
+
+When a program offers users all of these freedoms, we call it free software.</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">The Foundations of the GPL</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">Nobody should be restricted by the software they use.</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0"/>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">There are four freedoms that every user should have:</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0"/>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">• the freedom to use the software for any purpose,</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">• the freedom to share the software with your friends and neighbors,</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">• the freedom to change the software to suit your needs, and</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">• the freedom to share the changes you make.</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0"/>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0"/>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">When a program offers users all of these freedoms, we call it free software.</FONT>
+          </P>
+        </htmlText>
+        <w>552</w>
+        <h>630.05</h>
+      </textfield>
+    </object>
+    <object id="115_141494" type="button" x="37779.25" y="-34769.45" r="0" s="17.079618453979492">
+      <type>invisible</type>
+      <size>
+        <w>257</w>
+        <h>51</h>
+      </size>
+    </object>
+    <object id="0_136752" type="label" x="37699.3" y="-34701.25" r="0" s="18.617612838745117" class="strong">
+      <textfield>
+        <x>-96.7</x>
+        <y>-18.45</y>
+        <text>free software.</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">free software.</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="119_141494" type="button" x="24910.4" y="-32189.95" r="0" s="7.7659173011779785">
+      <type>invisible</type>
+      <size>
+        <w>799</w>
+        <h>368</h>
+      </size>
+    </object>
+    <object id="2_137383" type="image" x="23438.25" y="-32498.35" r="0" s="6.430386066436768">
+      <source w="347" h="348">52799280.gif<url>52799280.gif</url>
+      </source>
+    <resource><id>
+        52799280
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/7/3/df25daf57dbf3a85a7f1df4b97c44f3769642.gif</url></resource></object>
+    <object id="4_137383" type="image" x="26253.4" y="-32299.35" r="0" s="8.137371063232422">
+      <source w="385" h="370">52799301.png<url>52799301.png</url>
+      </source>
+    <resource><id>
+        52799301
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/c/f/c6be4249018a2077d4d9090bd0be88261c295.png</url></resource></object>
+    <object id="120_141494" type="button" x="26509.3" y="-26316.85" r="0" s="39.31507110595703">
+      <type>invisible</type>
+      <size>
+        <w>277</w>
+        <h>223</h>
+      </size>
+    </object>
+    <object id="6_137383" type="image" x="26542" y="-25109.65" r="0" s="15.081842422485352">
+      <source w="570" h="334">52799313.png<url>52799313.png</url>
+      </source>
+    <resource><id>
+        52799313
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/c/b/0ebf731bbaf842bf3b8871634b974dd8527e5.png</url></resource></object>
+    <object id="118_141494" type="button" x="24551.95" y="-34708.65" r="0" s="7.7659173011779785">
+      <type>invisible</type>
+      <size>
+        <w>677.55</w>
+        <h>253.8</h>
+      </size>
+    </object>
+    <object id="0_137383" type="label" x="24694.65" y="-34481.9" r="0" s="16.808969497680664" class="strong">
+      <textfield>
+        <x>-143.75</x>
+        <y>-51.4</y>
+        <text>Case study
+Potato leaf roll virus
+(PLRV)</text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">Case study</FONT>
+          </P>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">Potato leaf roll virus</FONT>
+          </P>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">(PLRV)</FONT>
+          </P>
+        </htmlText>
+        <w>287.5</w>
+        <h>102.85</h>
+      </textfield>
+    </object>
+    <object id="8_137383" type="image" x="26542.75" y="-29268.3" r="0" s="13.163613319396973">
+      <source w="1280" h="800">52799350.png<url>52799350.png</url>
+        <mask x="80" y="204" w="644" h="224"/>
+      </source>
+    <resource><id>
+        52799350
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/6/a/ae6a385712e57aa79e37c3b5753c72f7c4715.png</url></resource></object>
+    <object id="121_141494" type="button" x="15048.5" y="-30975.95" r="0" s="39.31507110595703">
+      <type>invisible</type>
+      <size>
+        <w>242</w>
+        <h>176</h>
+      </size>
+    </object>
+    <object id="10_137383" type="image" x="15102.2" y="-30952.25" r="0" s="8.95483112335205">
+      <source w="960" h="720">52799385.jpg<url>52799385.jpg</url>
+      </source>
+    <resource><id>
+        52799385
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/7/2/13c3ca7bdfd36368b57fc143798cf4fc94037.jpg</url></resource></object>
+    <object id="122_141494" type="button" x="15294.25" y="-24164.3" r="0" s="39.31507110595703">
+      <type>invisible</type>
+      <size>
+        <w>155.5</w>
+        <h>171.5</h>
+      </size>
+    </object>
+    <object id="12_137383" type="image" x="15246.35" y="-24276.3" r="0" s="9.124018669128418">
+      <source w="518" h="673">52799419.jpg<url>52799419.jpg</url>
+      </source>
+    <resource><id>
+        52799419
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/7/a/929e38efdec5201a564dafcfd5f2b4bacf961.jpg</url></resource></object>
+    <object id="123_141494" type="button" x="3570.05" y="-32350" r="0" s="39.31507110595703">
+      <type>invisible</type>
+      <size>
+        <w>256</w>
+        <h>123</h>
+      </size>
+    </object>
+    <object id="14_137383" type="image" x="3104.8" y="-32396.3" r="0" s="7.64500093460083">
+      <source w="1004" h="528">52799520.png<url>52799520.png</url>
+      </source>
+    <resource><id>
+        52799520
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/a/c/34c880aa1fa222f3d474d300cb79ef38ee043.png</url></resource></object>
+    <object id="5_138183" type="image" x="3128.95" y="-24749.2" r="0" s="9.315013885498047">
+      <source w="824" h="216">52799599.png<url>52799599.png</url>
+      </source>
+    <resource><id>
+        52799599
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/4/3/9c954e73368c740b3b92736fa1b2286d55da0.png</url></resource></object>
+    <object id="124_141494" type="button" x="3493.3" y="-26110.45" r="0" s="39.31507110595703">
+      <type>invisible</type>
+      <size>
+        <w>265</w>
+        <h>159</h>
+      </size>
+    </object>
+    <object id="0_138183" type="label" x="2935.75" y="-28480.95" r="0" s="26.325485229492188" class="strong">
+      <textfield>
+        <x>-145.9</x>
+        <y>-18.45</y>
+        <text>The Predicted peptide</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">The Predicted peptide</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="1_138183" type="label" x="2935.75" y="-27530.8" r="0" s="18.80392074584961" class="body">
+      <textfield>
+        <x>-182</x>
+        <y>-14.1</y>
+        <text>ARMINGVEWHDSSEDQCRILWKGNGKSSDT</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="Inconsolata" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">ARMINGVEWHDSSEDQCRILWKGNGKSSDT</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="3_138183" type="image" x="3128.95" y="-26685.75" r="0" s="6.5379557609558105">
+      <source w="1174" h="92">52799574.png<url>52799574.png</url>
+      </source>
+    <resource><id>
+        52799574
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/5/f/f65edd714efa458072689fe3d185f2738ef09.png</url></resource></object>
+    <object id="125_141494" type="button" x="-8156.05" y="-29027.75" r="0" s="39.31507110595703">
+      <type>invisible</type>
+      <size>
+        <w>230</w>
+        <h>330</h>
+      </size>
+    </object>
+    <object id="7_138183" type="image" x="-8348.8" y="-31638.1" r="0" s="7.995380401611328">
+      <source w="960" h="720">52799669.jpg<url>52799669.jpg</url>
+      </source>
+    <resource><id>
+        52799669
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/a/9/179fdeb796dc4a9b70a968069a08078c7c00d.jpg</url></resource></object>
+    <object id="9_138183" type="image" x="-8396.95" y="-26114.65" r="0" s="6.792539596557617">
+      <source w="1130" h="489">52799680.png<url>52799680.png</url>
+      </source>
+    <resource><id>
+        52799680
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/3/4/b837e79e79d7e0ea809a06a93da532ebfae75.png</url></resource></object>
+    <object id="129_141494" type="button" x="-25297.5" y="-22706.3" r="0" s="39.31507110595703">
+      <type>invisible</type>
+      <size>
+        <w>402.15</w>
+        <h>191</h>
+      </size>
+    </object>
+    <object id="127_141494" type="button" x="-25115.35" y="-32098.45" r="0" s="39.31507110595703">
+      <type>invisible</type>
+      <size>
+        <w>528</w>
+        <h>147</h>
+      </size>
+    </object>
+    <object id="10_138183" type="label" x="-25298.75" y="-31999.75" r="0" s="18.80392074584961" class="head">
+      <textfield>
+        <x>-535.6</x>
+        <y>-133.8</y>
+        <text>Through Epitopes prediction the designing and choosing of immunogenic peptide will be more reliable beside other advantages like:
+
+Production of antibodies faster and cheaper.
+Production of antibodies for any protein we information about its sequence even we don’t have the protein itself physically.
+Commercialization of the produced antibodies dos not conflict with intellectual property rights.</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">Through Epitopes prediction the designing and choosing of immunogenic peptide will be more reliable beside other advantages like:</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0"/>
+          </P>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">Production of antibodies faster and cheaper.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">Production of antibodies for any protein we information about its sequence even we don’t have the protein itself physically.</FONT>
+            </LI>
+          </P>
+          <P ALIGN="left">
+            <LI>
+              <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">Commercialization of the produced antibodies dos not conflict with intellectual property rights.</FONT>
+            </LI>
+          </P>
+        </htmlText>
+        <w>1071.25</w>
+        <h>267.6</h>
+      </textfield>
+    </object>
+    <object id="128_141494" type="button" x="-24948.2" y="-28402.65" r="0" s="39.31507110595703">
+      <type>invisible</type>
+      <size>
+        <w>295.5</w>
+        <h>49</h>
+      </size>
+    </object>
+    <object id="13_138183" type="label" x="-25098.9" y="-28220.65" r="0" s="50.566043853759766" class="strong">
+      <textfield>
+        <x>-106.15</x>
+        <y>-18.45</y>
+        <text>Aknowledgement</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">Aknowledgement</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="126_141494" type="button" x="-24820.4" y="-35558.3" r="0" s="39.31507110595703">
+      <type>invisible</type>
+      <size>
+        <w>157</w>
+        <h>37</h>
+      </size>
+    </object>
+    <object id="14_138183" type="label" x="-24790.9" y="-35312.35" r="0" s="36.855709075927734" class="strong">
+      <textfield>
+        <x>-75.1</x>
+        <y>-18.45</y>
+        <text>Conclusions</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">Conclusions</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="132_141494" type="button" x="-52379.55" y="-21722.75" r="0" s="39.31507110595703">
+      <type>invisible</type>
+      <size>
+        <w>305</w>
+        <h>210</h>
+      </size>
+    </object>
+    <object id="17_138183" type="image" x="-52226.95" y="-21738.8" r="0" s="15.165787696838379">
+      <source w="659" h="468">52800058.png<url>52800058.png</url>
+      </source>
+    <resource><id>
+        52800058
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/5/e/cc7a8349c84d60bc088d248cc9a0560329a87.png</url></resource></object>
+    <object id="131_141494" type="button" x="-52359.9" y="-30175.75" r="0" s="39.31507110595703">
+      <type>invisible</type>
+      <size>
+        <w>270</w>
+        <h>206</h>
+      </size>
+    </object>
+    <object id="19_138183" type="image" x="-52227" y="-30214.35" r="0" s="10.410667419433594">
+      <source w="960" h="720">52800141.jpg<url>52800141.jpg</url>
+      </source>
+    <resource><id>
+        52800141
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/9/3/2ab3c55c069582128efac1e93a1e247a662e9.jpg</url></resource></object>
+    <object id="130_141494" type="button" x="-51382.85" y="-35374.45" r="0" s="58.972625732421875">
+      <type>invisible</type>
+      <size>
+        <w>157</w>
+        <h>26</h>
+      </size>
+    </object>
+    <object id="15_138183" type="label" x="-51280.25" y="-35155.3" r="0" s="36.855709075927734" class="strong">
+      <textfield>
+        <x>-107.15</x>
+        <y>-18.45</y>
+        <text>future research</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#FF4700" LETTERSPACING="0" KERNING="0">future research</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="21_138183" type="image" x="-64774" y="-30708.2" r="-17.77355083359581" s="33.18634177203449">
+      <source w="300" h="220">52800160.jpg<url>52800160.jpg</url>
+      </source>
+    <resource><id>
+        52800160
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/2/c/57362f83a890096ee9def1b225727c45cac2d.jpg</url></resource></object>
+    <object id="22_138183" type="shape" x="-64523.15" y="-25676.1" r="80.99368587673384" s="36.779624363492026">
+      <geom type="arrow">
+        <sp>-43.17190203129809 0</sp>
+        <ep>43.17190203129809 0</ep>
+        <t>9</t>
+      </geom>
+    </object>
+    <object id="134_141494" type="button" x="-64461.55" y="-21022.85" r="0" s="39.31507110595703">
+      <type>invisible</type>
+      <size>
+        <w>279</w>
+        <h>188</h>
+      </size>
+    </object>
+    <object id="137_141494" type="button" x="-73082.7" y="-15508.8" r="0" s="58.972625732421875">
+      <type>invisible</type>
+      <size>
+        <w>968</w>
+        <h>228</h>
+      </size>
+    </object>
+    <object id="25_138183" type="image" x="-66903.2" y="-21167.8" r="0" s="13.348454475402832">
+      <source w="366" h="382">52800187.jpg<url>52800187.jpg</url>
+      </source>
+    <resource><id>
+        52800187
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/9/1/0eea0d7d707d580216e0fa9a8be989385688d.jpg</url></resource></object>
+    <object id="27_138183" type="image" x="-61691.9" y="-21167.8" r="0" s="14.866214752197266">
+      <source w="306" h="343">52800195.jpg<url>52800195.jpg</url>
+      </source>
+    <resource><id>
+        52800195
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/d/e/0d4b5439d7ee40ff74603f1fd71da1d69dae7.jpg</url></resource></object>
+    <object id="133_141494" type="button" x="-65570.3" y="-30175.75" r="0" s="39.31507110595703">
+      <type>invisible</type>
+      <size>
+        <w>350</w>
+        <h>206</h>
+      </size>
+    </object>
+    <object id="28_138183" type="shape" x="-70872.7" y="-29585.15" r="-26.550182460488163" s="36.662736216386314">
+      <geom type="arrow">
+        <sp>53.442024662244975 0</sp>
+        <ep>-53.442024662244975 0</ep>
+        <t>9</t>
+      </geom>
+    </object>
+    <object id="135_141494" type="button" x="-77697.55" y="-24646" r="0" s="39.31507110595703">
+      <type>invisible</type>
+      <size>
+        <w>349</w>
+        <h>352</h>
+      </size>
+    </object>
+    <object id="32_138183" type="image" x="-78044.45" y="-28016.05" r="0" s="2.7885425090789795">
+      <source w="2560" h="1920">52800281.jpg<url>52800281.jpg</url>
+      </source>
+    <resource><id>
+        52800281
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/9/f/ad6fdf505441ea4a9a8d4fa66993733c29067.jpg</url></resource></object>
+    <object id="34_138183" type="image" x="-74934" y="-23622.5" r="0" s="15.863903999328613">
+      <source w="450" h="338">52800300.jpg<url>52800300.jpg</url>
+      </source>
+    <resource><id>
+        52800300
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/e/a/e7facfd32a3474fff75bfe21c721eab2d1513.jpg</url></resource></object>
+    <object id="35_138183" type="shape" x="-82123.55" y="-23553.4" r="-26.55017169093673" s="36.66247690852561">
+      <geom type="arrow">
+        <sp>48.12018807112042 0</sp>
+        <ep>-48.12018807112042 0</ep>
+        <t>9</t>
+      </geom>
+    </object>
+    <object id="136_141494" type="button" x="-89978.1" y="-20521.55" r="0" s="39.31507110595703">
+      <type>invisible</type>
+      <size>
+        <w>289</w>
+        <h>226</h>
+      </size>
+    </object>
+    <object id="47_138183" type="shape" x="-81573.2" y="-15107.4" r="45" s="36.85587206484909">
+      <geom type="arrow">
+        <sp>-104.68715895466838 0</sp>
+        <ep>104.68715895466838 0</ep>
+        <t>9</t>
+      </geom>
+    </object>
+    <object id="48_138183" type="shape" x="-75086.65" y="-16625" r="-86.74798420536429" s="36.827695200554466">
+      <geom type="arrow">
+        <sp>97.88253483129664 0</sp>
+        <ep>-97.88253483129664 0</ep>
+        <t>9</t>
+      </geom>
+    </object>
+    <object id="49_138183" type="shape" x="-68795.05" y="-15398.1" r="-37.34222502422816" s="36.623955621088086">
+      <geom type="arrow">
+        <sp>124.47942852134244 0</sp>
+        <ep>-124.47942852134244 0</ep>
+        <t>9</t>
+      </geom>
+    </object>
+    <object id="50_138183" type="label" x="-76750.25" y="-10315.9" r="0" s="36.855709075927734" class="head">
+      <textfield>
+        <x>-323.65</x>
+        <y>-34.95</y>
+        <text>Materials Science and Engineering
+(Theory, Modeling and Simulation of Nanoscience)</text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">Materials Science and Engineering</FONT>
+          </P>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">(Theory, Modeling and Simulation of Nanoscience)</FONT>
+          </P>
+        </htmlText>
+        <w>647.3</w>
+        <h>69.9</h>
+      </textfield>
+    </object>
+    <object id="51_138183" type="shape" x="-76250.2" y="-7530.7" r="86.74886000799773" s="36.827372834903215">
+      <geom type="arrow">
+        <sp>-36.34014653245086 0</sp>
+        <ep>36.34014653245086 0</ep>
+        <t>9</t>
+      </geom>
+    </object>
+    <object id="139_141494" type="button" x="-75878.15" y="3027" r="0" s="58.972625732421875">
+      <type>invisible</type>
+      <size>
+        <w>274</w>
+        <h>125</h>
+      </size>
+    </object>
+    <object id="57_138183" type="image" x="-76111.8" y="3226.3" r="0" s="9.759998321533203">
+      <source w="1280" h="727">52800607.jpg<url>52800607.jpg</url>
+      </source>
+    <resource><id>
+        52800607
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/6/6/8a934a9953b7b4755d492f57924f4e4d98523.jpg</url></resource></object>
+    <object id="59_138183" type="image" x="-76072.45" y="10617.1" r="0" s="9.759998321533203">
+      <source w="1280" h="727">52800629.jpg<url>52800629.jpg</url>
+      </source>
+    <resource><id>
+        52800629
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/6/3/f156a9f9c62568adff4ebfdf5f39ab5751969.jpg</url></resource></object>
+    <object id="138_141494" type="button" x="-76414.85" y="-4893.25" r="0" s="58.972625732421875">
+      <type>invisible</type>
+      <size>
+        <w>579</w>
+        <h>64</h>
+      </size>
+    </object>
+    <object id="52_138183" type="label" x="-75616.45" y="-4588.9" r="0" s="36.855709075927734" class="head">
+      <textfield>
+        <x>-413.5</x>
+        <y>-34.95</y>
+        <text>Egypt-Japan University of Science and Technology (E-JUST)
+School of Innovative design Engineering</text>
+        <htmlText>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">Egypt-Japan University of Science and Technology (E-JUST)</FONT>
+          </P>
+          <P ALIGN="CENTER">
+            <FONT FACE="DanielBold" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">School of Innovative design Engineering</FONT>
+          </P>
+        </htmlText>
+        <w>827</w>
+        <h>69.9</h>
+      </textfield>
+    </object>
+    <object id="55_138183" type="shape" x="-76108.5" y="-1648.45" r="86.74887293870484" s="36.82725009569226">
+      <geom type="arrow">
+        <sp>-38.19902906874701 0</sp>
+        <ep>38.19902906874701 0</ep>
+        <t>9</t>
+      </geom>
+    </object>
+    <object id="141_141494" type="button" x="-75860.45" y="17791.45" r="0" s="58.972625732421875">
+      <type>invisible</type>
+      <size>
+        <w>327</w>
+        <h>140</h>
+      </size>
+    </object>
+    <object id="61_138183" type="image" x="-76072.5" y="18100.3" r="0" s="9.759998321533203">
+      <source w="1280" h="727">52800724.jpg<url>52800724.jpg</url>
+      </source>
+    <resource><id>
+        52800724
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/5/6/54483e64fac5e7210976437316b7f011aa800.jpg</url></resource></object>
+    <object id="0_141494" type="shape" x="-58193.7" y="-14811.4" r="-32.07304843741239" s="31.36403624665759">
+      <geom type="arrow">
+        <sp>150.6772813830937 0</sp>
+        <ep>-150.6772813830937 0</ep>
+        <t>9</t>
+      </geom>
+    </object>
+    <object id="2_141494" type="button" x="99637.85" y="-36124.25" r="0" s="4.406588077545166">
+      <type>invisible</type>
+      <size>
+        <w>122.85000000000016</w>
+        <h>156</h>
+      </size>
+    </object>
+    <object id="59_141494" type="button" x="98914.85" y="-35161.85" r="0" s="0.4980658292770386">
+      <type>invisible</type>
+      <size>
+        <w>909</w>
+        <h>377</h>
+      </size>
+    </object>
+    <object id="60_141494" type="button" x="98272.9" y="-35240.35" r="0" s="0.6592519283294678">
+      <type>invisible</type>
+      <size>
+        <w>621</w>
+        <h>258</h>
+      </size>
+    </object>
+    <object id="65_141494" type="button" x="99440.25" y="-33953.85" r="0" s="1.9604078531265259">
+      <type>invisible</type>
+      <size>
+        <w>430</w>
+        <h>308</h>
+      </size>
+    </object>
+    <object id="66_141494" type="button" x="99436.05" y="-33562.15" r="0" s="1.9604078531265259">
+      <type>invisible</type>
+      <size>
+        <w>458</w>
+        <h>41</h>
+      </size>
+    </object>
+    <object id="75_141494" type="button" x="97123.8" y="-31248.9" r="0" s="3.6378276348114014">
+      <type>invisible</type>
+      <size>
+        <w>564</w>
+        <h>122</h>
+      </size>
+    </object>
+    <object id="76_141494" type="button" x="97108.5" y="-30499.55" r="0" s="5.456764221191406">
+      <type>invisible</type>
+      <size>
+        <w>264</w>
+        <h>180</h>
+      </size>
+    </object>
+    <object id="77_141494" type="button" x="97097.6" y="-29301.7" r="0" s="5.456764221191406">
+      <type>invisible</type>
+      <size>
+        <w>280</w>
+        <h>237</h>
+      </size>
+    </object>
+    <object id="146_141494" type="button" x="-75708" y="29194.8" r="0" s="88.45894622802734">
+      <type>invisible</type>
+      <size>
+        <w>350</w>
+        <h>156</h>
+      </size>
+    </object>
+    <object id="143_141494" type="image" x="-76072.75" y="29192.2" r="0" s="37.506591796875">
+      <source w="500" h="335">52804265.jpg<url>52804265.jpg</url>
+      </source>
+    <resource><id>
+        52804265
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/9/0/07463964c4939b67ce9b4f7f9c42ef5e8b7a1.jpg</url></resource></object>
+    <object id="3_26676203" type="button" x="-25317.25" y="-15829.45" r="0" s="44.67513656616211">
+      <type>invisible</type>
+      <size>
+        <w>340</w>
+        <h>128</h>
+      </size>
+    </object>
+    <object id="2_26676203" type="image" x="-25297.5" y="-15828.1" r="0" s="3.262525796890259">
+      <source w="4169" h="5867">52814547.jpg<url>52814547.jpg</url>
+        <mask x="0" y="0" w="4169" h="1637"/>
+      </source>
+    <resource><id>
+        52814547
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/1/2/b3616bfe01fcdad330f319dc49e59017e792d.jpg</url></resource></object>
+    <object id="0_26676203" type="label" x="-24054.45" y="-22746.85" r="0" s="45.751060485839844" class="body">
+      <textfield>
+        <x>-140</x>
+        <y>-74.6</y>
+        <text>Prof. Waeil Abdel Wahed
+Prof. Alaa Hemida
+Dr. Ahmed Ashoub
+Dr. Ahmed Shokry
+Dr. Hanan Nour El-din
+Dr. Yasser El-Manzalawy</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="Inconsolata" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">Prof. Waeil Abdel Wahed</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="Inconsolata" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">Prof. Alaa Hemida</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="Inconsolata" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">Dr. Ahmed Ashoub</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="Inconsolata" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">Dr. Ahmed Shokry</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="Inconsolata" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">Dr. Hanan Nour El-din</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="Inconsolata" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">Dr. Yasser El-Manzalawy</FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="4_26676203" type="label" x="-78310.35" y="34552.9" r="0" s="23.342374801635742" class="body">
+      <textfield>
+        <x>-296</x>
+        <y>-26.2</y>
+        <text>References &amp; Presentation @
+https://sites.google.com/site/epitopesprediction/</text>
+        <htmlText>
+          <P ALIGN="LEFT">
+            <FONT FACE="Inconsolata" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">References &amp; Presentation @</FONT>
+          </P>
+          <P ALIGN="LEFT">
+            <FONT FACE="Inconsolata" SIZE="24" COLOR="#4B4027" LETTERSPACING="0" KERNING="0">
+              <A HREF="https://sites.google.com/site/epitopesprediction/" TARGET="_blank">
+                <U>https://sites.google.com/site/epitopesprediction/</U>
+              </A>
+            </FONT>
+          </P>
+        </htmlText>
+      </textfield>
+    </object>
+    <object id="1_26754739" type="image" x="-89979.55" y="-18410.6" r="0" s="25.035778045654297">
+      <source w="409" h="541">52860107.png<url>52860107.png</url>
+      </source>
+    <resource><id>
+        52860107
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/0/2/6aa7929581db8e01106eba4c857a0dd05a20a.png</url></resource></object>
+  </zui-table>
+  <path>
+    <o>2_141494</o>
+    <o>14_2381195</o>
+    <o>15_2381195</o>
+    <o>57_141494</o>
+    <o>7_2381195</o>
+    <o>59_141494</o>
+    <o>61_141494</o>
+    <o>62_141494</o>
+    <o>63_141494</o>
+    <o>65_141494</o>
+    <o>66_141494</o>
+    <o>67_141494</o>
+    <o>68_141494</o>
+    <o>69_141494</o>
+    <o>70_141494</o>
+    <o>71_141494</o>
+    <o>72_141494</o>
+    <o>73_141494</o>
+    <o>74_141494</o>
+    <o>75_141494</o>
+    <o>76_141494</o>
+    <o>77_141494</o>
+    <o>78_141494</o>
+    <o>80_141494</o>
+    <o>81_141494</o>
+    <o>82_141494</o>
+    <o>83_141494</o>
+    <o>84_141494</o>
+    <o>85_141494</o>
+    <o>86_141494</o>
+    <o>0_130406</o>
+    <o>88_141494</o>
+    <o>89_141494</o>
+    <o>90_141494</o>
+    <o>9_130406</o>
+    <o>8_130406</o>
+    <o>93_141494</o>
+    <o>12_130406</o>
+    <o>95_141494</o>
+    <o>96_141494</o>
+    <o>97_141494</o>
+    <o>98_141494</o>
+    <o>99_141494</o>
+    <o>100_141494</o>
+    <o>101_141494</o>
+    <o>102_141494</o>
+    <o>103_141494</o>
+    <o>104_141494</o>
+    <o>105_141494</o>
+    <o>106_141494</o>
+    <o>107_141494</o>
+    <o>108_141494</o>
+    <o>109_141494</o>
+    <o>110_141494</o>
+    <o>111_141494</o>
+    <o>112_141494</o>
+    <o>113_141494</o>
+    <o>114_141494</o>
+    <o>115_141494</o>
+    <o>116_141494</o>
+    <o>117_141494</o>
+    <o>118_141494</o>
+    <o>119_141494</o>
+    <o>120_141494</o>
+    <o>121_141494</o>
+    <o>122_141494</o>
+    <o>123_141494</o>
+    <o>124_141494</o>
+    <o>125_141494</o>
+    <o>126_141494</o>
+    <o>127_141494</o>
+    <o>128_141494</o>
+    <o>129_141494</o>
+    <o>3_26676203</o>
+    <o>130_141494</o>
+    <o>131_141494</o>
+    <o>132_141494</o>
+    <o>133_141494</o>
+    <o>134_141494</o>
+    <o>135_141494</o>
+    <o>136_141494</o>
+    <o>137_141494</o>
+    <o>138_141494</o>
+    <o>139_141494</o>
+    <o>141_141494</o>
+    <o>146_141494</o>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('danielbd.swf');
+	fontFamily: head;
+}
+
+@font-face
+{
+	src: url('danielbd.swf');
+	fontFamily: strong;
+}
+
+@font-face
+{
+	src: url('Inconsolata.swf');
+	fontFamily: body;
+}
+
+ZLabel
+{
+	lockTintColor: #00baff;
+	padding: 1.2;
+}
+
+ZLabel.head
+{
+	color: #4b4027;
+	fontFamily: head;
+}
+
+.line5
+{
+	borderThickness: 4;
+	gradEndAlpha: 0;
+	gradEndColor: #fff;
+	borderColor: #f6ff00;
+	alpha: 1;
+	gradStartAlpha: 0.8;
+	gradStartColor: #fff;
+	color: #f6ff00;
+	borderAlpha: 1;
+}
+
+.poly5
+{
+	borderThickness: 4;
+	gradEndAlpha: 0.8;
+	gradEndColor: #fff;
+	borderColor: #f6ff00;
+	gradStartAlpha: 0.8;
+	gradStartColor: #fff;
+	radius: 30;
+	thickness: 100;
+	borderAlpha: 1;
+}
+
+ZLabel.strong
+{
+	color: #ff4700;
+	fontFamily: strong;
+}
+
+.line1
+{
+	borderThickness: 4;
+	gradEndAlpha: 0;
+	gradEndColor: #fff;
+	borderColor: #153f6b;
+	alpha: 1;
+	gradStartAlpha: 0.8;
+	gradStartColor: #cce4ff;
+	color: #153f6b;
+	borderAlpha: 1;
+}
+
+.poly1
+{
+	borderThickness: 4;
+	gradEndAlpha: 0.8;
+	gradEndColor: #cce4ff;
+	borderColor: #153f6b;
+	gradStartAlpha: 0.8;
+	gradStartColor: #cce4ff;
+	radius: 30;
+	thickness: 100;
+	borderAlpha: 1;
+}
+
+ZLabel.body
+{
+	color: #4b4027;
+	fontFamily: body;
+}
+
+Background
+{
+	gradEnd: #00baff;
+	gradStart: #fff;
+}
+
+Grid
+{
+	color: #b7ebff;
+}
+
+ZFrame.circle
+{
+	borderThickness: 0;
+	gradEndAlpha: 0.9;
+	gradEndColor: #fff;
+	borderColor: #fff;
+	gradStartAlpha: 0.9;
+	gradStartColor: #fff;
+	lockTintColor: #00baff;
+	thickness: 8;
+	borderAlpha: 0.8;
+}
+
+.line4
+{
+	borderThickness: 4;
+	gradEndAlpha: 0;
+	gradEndColor: #fff;
+	borderColor: #0091e5;
+	alpha: 1;
+	gradStartAlpha: 0.8;
+	gradStartColor: #fff;
+	color: #0091e5;
+	borderAlpha: 1;
+}
+
+.poly4
+{
+	borderThickness: 4;
+	gradEndAlpha: 0.8;
+	gradEndColor: #fff;
+	borderColor: #0091e5;
+	gradStartAlpha: 0.8;
+	gradStartColor: #fff;
+	radius: 30;
+	thickness: 100;
+	borderAlpha: 1;
+}
+
+ZFrame.bracket
+{
+	borderThickness: 5;
+	gradEndAlpha: 0;
+	gradEndColor: #fff;
+	borderColor: #fff;
+	gradStartAlpha: 0;
+	gradStartColor: #fff;
+	lockTintColor: #00baff;
+	thickness: 15;
+	borderAlpha: 0.8;
+}
+
+.line2
+{
+	borderThickness: 4;
+	gradEndAlpha: 0;
+	gradEndColor: #fff;
+	borderColor: #4b4027;
+	alpha: 0.8;
+	gradStartAlpha: 0;
+	gradStartColor: #fff;
+	color: #4b4027;
+	borderAlpha: 1;
+}
+
+.poly2
+{
+	borderThickness: 4;
+	gradEndAlpha: 0.8;
+	gradEndColor: #fff;
+	borderColor: #4b4027;
+	gradStartAlpha: 0.8;
+	gradStartColor: #fff;
+	radius: 0;
+	thickness: 100;
+	borderAlpha: 1;
+}
+
+ZFrame.roundrect
+{
+	borderThickness: 10;
+	gradEndAlpha: 0;
+	gradEndColor: #fff;
+	borderColor: #f6ff00;
+	radius: 40;
+	gradStartAlpha: 0;
+	gradStartColor: #fff;
+	lockTintColor: #00baff;
+	borderAlpha: 0.8;
+}
+
+ZFrame.invisible
+{
+	radius: 30;
+	gradEndAlpha: 0.3;
+	gradEndColor: #fff;
+	borderColor: #fff;
+	gradStartAlpha: 0.02;
+	gradStartColor: #fff;
+	lockTintColor: #00baff;
+	borderAlpha: 0.6;
+}
+
+ZPoly
+{
+	borderThickness: 4;
+	gradEndAlpha: 0.4;
+	gradEndColor: #288acc;
+	borderColor: #288acc;
+	radius: 30;
+	gradStartAlpha: 0.1;
+	gradStartColor: #288acc;
+	lockTintColor: #00baff;
+	thickness: 100;
+	borderAlpha: 1;
+}
+
+ZCircle
+{
+	borderThickness: 4;
+	gradEndAlpha: 0.4;
+	gradEndColor: #288acc;
+	borderColor: #288acc;
+	radius: 30;
+	gradStartAlpha: 0.1;
+	gradStartColor: #288acc;
+	lockTintColor: #00baff;
+	thickness: 100;
+	borderAlpha: 1;
+}
+
+ZLine
+{
+	lockTintColor: #00baff;
+	color: #fff;
+	alpha: 1;
+}
+
+ZArrow
+{
+	borderThickness: 4;
+	gradEndAlpha: 0;
+	gradEndColor: #ff4700;
+	borderColor: #ff4700;
+	gradStartAlpha: 0;
+	gradStartColor: #ff4700;
+	lockTintColor: #00baff;
+	thickness: 9;
+	borderAlpha: 1;
+}
+
+.line3
+{
+	gradStartColor: #ff4700;
+	color: #ff4700;
+	gradEndColor: #ff4700;
+}
+
+.poly3
+{
+	borderColor: #ff4700;
+}
+
+ZCurveLine
+{
+	lockTintColor: #00baff;
+	color: #4b4027;
+	thickness: 2;
+	alpha: 1;
+}
+
+ZMarker
+{
+	lockTintColor: #00baff;
+	thickness: 20;
+	color: #f6ff00;
+	alpha: 0.8;
+}
+
+ZPath
+{
+	textColor: #5aa7cb;
+	thickness: 5;
+	color: #fff;
+	alpha: 0.8;
+}
+
+ZPath Ball.base
+{
+	fillColor: #fff;
+	radius: 15;
+	alpha: 0.9;
+}
+
+ZPath Ball.mid
+{
+	fillColor: #fff;
+	radius: 7;
+	alpha: 0.9;
+}
+
+ZVideo
+{
+	lockTintColor: #00baff;
+	padding: 1.2;
+}
+
+ZYoutube
+{
+	lockTintColor: #00baff;
+}
+
+ZLoadedImage
+{
+	lockTintColor: #00baff;
+}
+
+]]></style>
+  <hash>52a01507cf32632463b4417ead727d13</hash>
+<sync><oid>6x5slpaaxpm3</oid><hash>52a01507cf32632463b4417ead727d13</hash></sync><config>B50ahrcXzOonA4zQZwikzYO1vQOY7EspcHvLqe0DHB/NJ+tJTo35EA0U8zJHKaTv9N/CklEE/zbnyvD2uCcFHtfYYLTgRo3j3RKEKGZYgKDdYySyFMKSdsYnsi+XmnsiutS0tdBUW6F5TI/xwdtWhDhqfc2Pnys63t03jw/IyKQ0iuCFzCX0yWxvAGQuyEVb1FFOAxg68qjXlXGdjnDHTORXMvQW6ZHWdjD2pu30FZ0Bw+OHp2Q8lp7V5i+mqdUFk4WMDOO0KMJEhsqH/bcPIW3YKdXO9mrco/2o8j0a2Qup3rLImamIYnLBsevCKljUnjq+K71DamzViVgNyvLkNA==</config></zuiprezi>
