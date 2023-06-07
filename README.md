@@ -1,8 +1,8 @@
 # EMAS-TIM
 # Epitopes Model Applier Software (EMAS) - Tool for Implementing Models (TiM)   
-#### By: Youssef Bakr (www.linkedin.com/in/youssef-bakr)
-### @ 2011 (EMAS-TIM) was a partial fulfilment of the rquirements for the degree of Master of Science in Genetic Engineering and Biotechnology (Bioinformatics)
-### Bioinformatics Department, Genetic Engineering and Biotechnology Research Institute (GEBRI).
+##### By: Youssef Bakr (www.linkedin.com/in/youssef-bakr)
+#### @ 2011 (EMAS-TIM) was a partial fulfilment of the rquirements for the degree of Master of Science in Genetic Engineering and Biotechnology (Bioinformatics)
+#### Bioinformatics Department, Genetic Engineering and Biotechnology Research Institute (GEBRI).
 
 
 
