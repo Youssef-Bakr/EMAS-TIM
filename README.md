@@ -13,4 +13,4 @@
 
 
 
-###### I would like to express my appreciation to two open source project (WEKA and EPIT) that i used in EMAS-TIM development and Master thesis project.
+###### I would like to express my appreciation to two open source project (WEKA and EPIT) that i used in EMAS-TIM development and my Master thesis project.
